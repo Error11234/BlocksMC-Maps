@@ -1,13 +1,13 @@
 # 🗺️ BlocksMC Maps für Minecraft Java
 
 Willkommen im BlocksMC-Maps-Archiv!  
-Hier findest du Minecraft **Java Edition** Maps aus dem Netzwerk **BlocksMC**, geordnet nach Spielmodus – zum **kostenlosen Download**.
+Hier findest du Minecraft **Java Edition** Maps – zum **kostenlosen Download**.
 
 ## 📁 Ordnerstruktur
 
 Alle Maps findest du unter:
 
-BlocksMC-Maps / Maps /
+Maps / "DerServer" / "Der ServerOrdner" / Maps
 
 
 > Weitere Spielmodi wie SkyWars, EggWars etc. können später ergänzt werden.
